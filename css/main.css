@@ -1,0 +1,29 @@
+
+body{
+  background-color:green;
+}
+
+
+.container{
+  text-align:center;
+}
+
+.container h1{
+  color:Tomato;
+  margin-right: 35px;
+}
+
+.container select{
+
+}
+#body p{
+    font-size: 1px;
+    color:green;
+}
+/*.form img{
+  height:200px;
+  width:200px;
+}*/
+#button{
+  visibility: hidden;
+}
